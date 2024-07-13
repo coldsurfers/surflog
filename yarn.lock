@@ -16,6 +16,13 @@
   dependencies:
     "@coldsurfers/shared-utils" "1.0.0"
 
+"@coldsurfers/cloudinary-utils@1.0.1-rc.1":
+  version "1.0.1-rc.1"
+  resolved "https://npm.pkg.github.com/download/@coldsurfers/cloudinary-utils/1.0.1-rc.1/28f2e93b321d31415bc66557288aee7b47a3b06c#28f2e93b321d31415bc66557288aee7b47a3b06c"
+  integrity sha512-uNkLyIKPmGwdA8me37eflBqyK/HY5wLrcLtyJDGK7y/uOarbKB7FazOgHpp8plTQgnFZzsVumZ5VcCpJ5TbIhg==
+  dependencies:
+    "@coldsurfers/shared-utils" "1.1.0"
+
 "@coldsurfers/design-tokens@1.10.0":
   version "1.10.0"
   resolved "https://npm.pkg.github.com/download/@coldsurfers/design-tokens/1.10.0/5de0ababed32a75c695afe2c506266568a9431fe#5de0ababed32a75c695afe2c506266568a9431fe"
