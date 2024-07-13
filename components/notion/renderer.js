@@ -231,10 +231,10 @@ export function renderBlock(block) {
           <iframe
             src={videoUrl}
             title="YouTube video player"
-            frameborder="0"
+            frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
-            allowfullscreen
+            allowFullScreen
             style={{
               width: '100%',
               minHeight: '360px',
